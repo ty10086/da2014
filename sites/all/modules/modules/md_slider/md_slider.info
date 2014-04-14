@@ -1,0 +1,11 @@
+name = MD Slider
+description = Create an amazing slideshow with drag drop and timeline manager.
+core = 7.x
+package = Megadrupal
+files[] = md_slider.module
+dependencies[] = media
+
+project status url = http://updates.megadrupal.com/release-history
+version = "7.x-2.2"
+core = "7.x"
+project = "md_slider"
